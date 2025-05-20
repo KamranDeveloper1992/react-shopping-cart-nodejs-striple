@@ -9,11 +9,7 @@ This is a full-stack e-commerce shopping cart application built using **React**,
 
 ### Frontend:
 - React.js
-- React Router
 - Axios
-- Context API
-- CSS Modules / Tailwind (specify if used)
-
 ### Backend:
 - Node.js
 - Express.js
@@ -21,7 +17,7 @@ This is a full-stack e-commerce shopping cart application built using **React**,
 - CORS, dotenv
 
 ## 💡 Features
-- Add/remove products to cart
+- Add products to cart
 - View cart details with dynamic totals
 - Checkout with Stripe payment integration
 - Responsive design
