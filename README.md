@@ -3,7 +3,7 @@
 This is a full-stack e-commerce shopping cart application built using **React**, **Node.js**, and **Stripe** for payment processing.
 
 ### 🚀 Live Demo
-👉 [Click here to view the live project](https://idyllic-lamington-f0f2d9.netlify.app/)
+👉 [Click here to view the live project](https://leafy-conkies-e3bf3e.netlify.app/)
 
 ## 🛠 Technologies Used
 
